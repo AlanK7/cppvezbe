@@ -31,7 +31,7 @@ int main()
     /* komentari sluze da objasne neki kod, narocito su znacajni ukoliko se
     radi u timu od vise ljudi, da bi ostali clanovi mogli lakse da se snadju, i ukoliko
     znamo da cemo odrzavati neki kod (cesto se desava da sami zaboravimo sta smo radili)
-    i na taj nacin se kod dokumentuje kod*/
+    i na taj nacin se kod dokumentuje*/
     // kompajler pri kompajliranju ignorise sve komentare
 
     return 0;
