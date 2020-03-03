@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583250289 source:c:\users\cpp\desktop\cppvezbe\vezbe 2\linijska struktura\abspowsqrt\main.cpp
+	<iostream>
+	<cmath>
+
