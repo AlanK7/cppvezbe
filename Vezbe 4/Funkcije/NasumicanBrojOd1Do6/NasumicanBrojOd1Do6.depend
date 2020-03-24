@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585063096 source:c:\users\cpp\desktop\cppvezbe\vezbe 4\funkcije\nasumicanbrojod1do6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
