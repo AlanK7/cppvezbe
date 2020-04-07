@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586272132 source:c:\users\cpp\desktop\cppvezbe\vezbe 7\stringovi\4\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+
