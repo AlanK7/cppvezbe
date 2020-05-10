@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1589123814 source:c:\users\meris\desktop\vezbe 12\modularizacija\1.artikal\src\artikal.cpp
+	"Artikal.h"
+	<string>
+	<iostream>
+
+1589123761 c:\users\meris\desktop\vezbe 12\modularizacija\1.artikal\include\artikal.h
+	<string>
+
+1589123873 source:c:\users\meris\desktop\vezbe 12\modularizacija\1.artikal\main.cpp
+	<iostream>
+	<string>
+	"Artikal.h"
+
