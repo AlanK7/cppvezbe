@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1589570021 source:c:\users\meris\desktop\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\main.cpp
+	<iostream>
+	"Pravougaonik.h"
+	"Krug.h"
+	<string>
+
+1589567854 source:c:\users\meris\desktop\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\src\geometrijskafigura.cpp
+	"GeometrijskaFigura.h"
+
+1589569414 c:\users\meris\desktop\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\include\geometrijskafigura.h
+	<string>
+
+1589569866 source:c:\users\meris\desktop\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\src\krug.cpp
+	"Krug.h"
+	"GeometrijskaFigura.h"
+	<string>
+
+1589569825 c:\users\meris\desktop\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\include\krug.h
+	"GeometrijskaFigura.h"
+	<string>
+
+1589570039 source:c:\users\meris\desktop\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\src\pravougaonik.cpp
+	"Pravougaonik.h"
+	"GeometrijskaFigura.h"
+
+1589569614 c:\users\meris\desktop\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\include\pravougaonik.h
+	"GeometrijskaFigura.h"
+	<string>
+
+1589570021 source:c:\users\cpp\desktop\cppvezbe\cppvezbe\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\main.cpp
+	<iostream>
+	"Pravougaonik.h"
+	"Krug.h"
+	<string>
+
+1589569614 c:\users\cpp\desktop\cppvezbe\cppvezbe\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\include\pravougaonik.h
+	"GeometrijskaFigura.h"
+	<string>
+
+1589569414 c:\users\cpp\desktop\cppvezbe\cppvezbe\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\include\geometrijskafigura.h
+	<string>
+
+1589569825 c:\users\cpp\desktop\cppvezbe\cppvezbe\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\include\krug.h
+	"GeometrijskaFigura.h"
+	<string>
+
+1589567854 source:c:\users\cpp\desktop\cppvezbe\cppvezbe\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\src\geometrijskafigura.cpp
+	"GeometrijskaFigura.h"
+
+1589569866 source:c:\users\cpp\desktop\cppvezbe\cppvezbe\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\src\krug.cpp
+	"Krug.h"
+	"GeometrijskaFigura.h"
+	<string>
+
+1589570039 source:c:\users\cpp\desktop\cppvezbe\cppvezbe\vezbe 12\nasledjivanjeipolimorfizam\geomertrijskafigura\src\pravougaonik.cpp
+	"Pravougaonik.h"
+	"GeometrijskaFigura.h"
+
